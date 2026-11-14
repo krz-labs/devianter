@@ -1,5 +1,7 @@
 #+title: devianter
 
+support this project through [[https://github.com/sponsors/ccleberg][github sponsors]].
+
 * what
 deviantart guest api library for go.
 
