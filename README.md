@@ -1,7 +1,7 @@
 # devianter
 
 devianter is a Go client for DeviantArt's guest API. It is the library behind
-[SkunkyArt](https://gitbay.org/krz/skunky-art).
+[SkunkyArt](https://github.com/krz-labs/skunky-art).
 
 This is a maintained fork of
 [skunky/devianter](https://git.macaw.me/skunky/devianter).
@@ -78,13 +78,8 @@ to identify your client and `Timeout` to bound each request.
 
 ## Contributing
 
-The canonical repository, issue tracker and merge requests are on
-[gitbay.org/krz/devianter](https://gitbay.org/krz/devianter).
-[github.com/krz-labs/devianter](https://github.com/krz-labs/devianter) is a
-push mirror.
-
-Please open issues on gitbay. Issues opened on GitHub may not be seen right
-away; if one goes unanswered, reach out directly.
+The repository, issue tracker and pull requests are on
+[github.com/krz-labs/devianter](https://github.com/krz-labs/devianter).
 
 ## License
 
